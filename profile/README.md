@@ -1,4 +1,9 @@
-## Hi there 👋
+## Olá 👋
+
+🙋‍♀️ Bem vindo ao repositório da Barazal Sistemas
+Para começar, leia nosso o [onboarding](https://github.com/barazal-sistemas/BZSistemas-Community/onboarding) da comunidade.
+
+Seja bem-vindo!
 
 <!--
 
